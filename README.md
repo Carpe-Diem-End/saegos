@@ -1,2 +1,2 @@
 # saegos
-a fully capable app for android and IOS for handling mountaineering
+a fully capable app for handling mountaineering
